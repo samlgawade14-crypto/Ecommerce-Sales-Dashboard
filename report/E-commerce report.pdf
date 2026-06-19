@@ -1,0 +1,110 @@
+# E-Commerce Sales Dashboard 2025
+
+## Internship Project Report
+
+### Introduction
+
+E-Commerce businesses generate a large amount of sales data every day. Analyzing this data helps organizations understand customer behavior, identify profitable categories, and improve business strategies. This project demonstrates the complete data analysis process using Python.
+
+---
+
+## Objectives
+
+1. Clean the dataset.
+2. Perform Exploratory Data Analysis (EDA).
+3. Visualize sales information.
+4. Generate business insights.
+5. Build a professional sales dashboard.
+
+---
+
+## Dataset Description
+
+The dataset consists of 1500 sales records containing Order ID, Order Date, Customer Name, State, City, Amount, Profit, Quantity, Category, and Sub-Category.
+
+---
+
+## Libraries Used
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* streamlit
+
+---
+
+## Methodology
+
+### Step 1: Data Collection
+
+Downloaded the E-Commerce dataset and merged the required CSV files.
+
+### Step 2: Data Cleaning
+
+* Removed duplicate records.
+* Checked missing values.
+* Converted dates into proper format.
+* Generated a cleaned dataset.
+
+### Step 3: Exploratory Data Analysis
+
+Calculated:
+
+* Total Sales
+* Total Profit
+* Average Sales
+* Maximum Sales
+* Minimum Sales
+* Category-wise Sales
+* State-wise Sales
+* Top Customers
+
+### Step 4: Data Visualization
+
+Created multiple charts:
+
+* Monthly Sales Trend
+* Category-wise Sales
+* State-wise Sales
+* Profit Analysis
+* Top Customer Analysis
+* Scatter Plot
+* Histogram
+* Box Plot
+* Heatmap
+* Final Dashboard
+
+---
+
+## Results
+
+Total Sales: ₹431,502
+
+Total Profit: ₹23,955
+
+Average Sales: ₹287.67
+
+Highest Sale: ₹5,729
+
+Highest Sales Category: Electronics
+
+Highest Sales State: Madhya Pradesh
+
+Top Customer: Yaanvi
+
+---
+
+## Business Insights
+
+* Electronics generated the maximum revenue.
+* Madhya Pradesh contributed the highest sales.
+* A few customers contributed significantly to total revenue.
+* Sales distribution contains high-value outliers.
+* Profit and sales show a positive relationship.
+
+---
+
+## Conclusion
+
+The project successfully analyzed E-Commerce sales data and generated meaningful visualizations and business insights using Python. The dashboard can help management understand sales performance and support future business decisions. This project demonstrates practical skills in data cleaning, exploratory data analysis, and data visualization.
